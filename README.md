@@ -1,4 +1,5 @@
-# Cabbagetic
+<h1 align="center">Cabbagetic</h1>
+
 Welcome to the Cabbagetic [Under construction 🚧🏗️👷‍♂️🛠️⚙️]
 
 ​For now, feel free to scroll down 👇 and enjoy some of the stuff below. Maybe try to get a high score.
