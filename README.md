@@ -20,7 +20,7 @@ The server is still under construction, though we’ve somehow made it to the Al
 ## Youtube
 It's inactive, so don't click 👉 [Teleport]
 
-## Admin panel for making changes on this README.md file
+## Admin panel for making changes on this page
 [Teleport](https://cabbagetic-classic.github.io/.github/admin/)
 
 <h2 align="center">Cabbagetic 2.0</h2>
