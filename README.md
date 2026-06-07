@@ -21,7 +21,7 @@ The server is still under construction, though we’ve somehow made it to the Al
 It's inactive, so don't click 👉 [Teleport]
 
 ## Admin panel for making changes on this README.md file
-[Teleport](https://cabbagetic.github.io/.github/admin/)
+[Teleport](https://cabbagetic-classic.github.io/.github/admin/)
 
 <h2 align="center">Cabbagetic 2.0</h2>
 
