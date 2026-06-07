@@ -5,7 +5,7 @@ Welcome to the Cabbagetic [Under construction 🚧🏗️👷‍♂️🛠️⚙
 ​For now, feel free to scroll down 👇 and enjoy some of the stuff below. Maybe try to get a high score.
 
 ## Profile
-[Teleport](https://cabbagetic.github.io/.github/profile/)
+[Teleport](https://cabbagetic-classic.github.io/.github/profile/)
 
 ## Discord Server (Stage: Alpha)
 [Teleport](https://discord.gg/HgCQAWMtRf)
@@ -27,4 +27,4 @@ It's inactive, so don't click 👉 [Teleport]
 
 __Do you want to see the 2.0 version of Cabbagetic?__
 
-You are allowed to [teleport](https://cabbagetic-2-0.github.io/.github/).
+You are allowed to [teleport](https://cabbagetic.github.io/.github/).
